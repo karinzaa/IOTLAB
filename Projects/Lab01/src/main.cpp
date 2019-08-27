@@ -3,9 +3,9 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 #include <DHT.h>    
-char auth[] = "JJVNmZfgAZS7aVP1McbC8fIJc5fbfRZd";
-char ssid[] = "LazyB";
-char pass[] = "lazybamm";
+char auth[] = "";
+char ssid[] = "";
+char pass[] = "";
 #define LDR_PIN 33 
 #define DHTPIN 19 
 #define DHTTYPE DHT11  
