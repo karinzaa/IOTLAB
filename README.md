@@ -10,4 +10,4 @@
 ### Project Infomation. </n>
 * This project dev on Platformio and Blink platform.</n>
 
->***Require `esp32doit-devkit-v1` `FrameworkArduino` `lib208` `lib557` `lib913` `libd71`***
+>***Require `esp32doit-devkit-v1` `FrameworkArduino` `lib208` `lib557` `lib913` `libd71` `Blink***
